@@ -1,6 +1,6 @@
 import pandas as pd
-import matplotlib.pyplot as plt  
-from main import ppl, age_mean, age_median, age_std  
+import matplotlib.pyplot as plt
+from main import ppl, age_mean, age_median, age_std
 
 
 def test_age_statistics():
