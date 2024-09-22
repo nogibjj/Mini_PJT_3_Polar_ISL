@@ -1,7 +1,7 @@
 # IDS-706 Data Engineering Assignment
-## Mini Project : Pandas Descriptive Statistics Script
+## Mini Project : Polars Descriptive Statistics Script
 
-[![CI](https://github.com/nogibjj/Mini_Project_Pandas_ISL/actions/workflows/hello.yml/badge.svg)](https://github.com/nogibjj/Mini_Project_Pandas_ISL/actions/workflows/hello.yml)
+#### badge
 
 ### Requirements
     1. Python script using Polars for descriptive statistics
